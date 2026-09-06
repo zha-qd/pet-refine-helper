@@ -1,0 +1,11 @@
+# Windows x64 / Python 3.10. Use the portable release for the tested runtime.
+numpy==1.26.4
+paddlepaddle==2.6.2
+paddleocr==2.7.0.3
+opencv-python==4.6.0.66
+opencv-contrib-python==4.6.0.66
+PyAutoGUI==0.9.54
+PyGetWindow==0.0.9
+pynput==1.8.1
+mss==10.1.0
+protobuf==3.20.2

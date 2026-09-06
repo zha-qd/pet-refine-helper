@@ -1,0 +1,378 @@
+[
+  {
+    "name": "anyio",
+    "version": "4.13.0"
+  },
+  {
+    "name": "astor",
+    "version": "0.8.1"
+  },
+  {
+    "name": "attrdict",
+    "version": "2.0.1"
+  },
+  {
+    "name": "babel",
+    "version": "2.18.0"
+  },
+  {
+    "name": "bce-python-sdk",
+    "version": "0.9.69"
+  },
+  {
+    "name": "beautifulsoup4",
+    "version": "4.14.3"
+  },
+  {
+    "name": "blinker",
+    "version": "1.9.0"
+  },
+  {
+    "name": "cachetools",
+    "version": "7.0.5"
+  },
+  {
+    "name": "certifi",
+    "version": "2026.2.25"
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.4.7"
+  },
+  {
+    "name": "click",
+    "version": "8.3.2"
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6"
+  },
+  {
+    "name": "contourpy",
+    "version": "1.3.2"
+  },
+  {
+    "name": "crc32c",
+    "version": "2.8"
+  },
+  {
+    "name": "cssselect",
+    "version": "1.4.0"
+  },
+  {
+    "name": "cssutils",
+    "version": "2.11.1"
+  },
+  {
+    "name": "cycler",
+    "version": "0.12.1"
+  },
+  {
+    "name": "Cython",
+    "version": "3.2.4"
+  },
+  {
+    "name": "decorator",
+    "version": "5.2.1"
+  },
+  {
+    "name": "et_xmlfile",
+    "version": "2.0.0"
+  },
+  {
+    "name": "exceptiongroup",
+    "version": "1.3.1"
+  },
+  {
+    "name": "fire",
+    "version": "0.7.1"
+  },
+  {
+    "name": "Flask",
+    "version": "3.1.3"
+  },
+  {
+    "name": "flask-babel",
+    "version": "4.0.0"
+  },
+  {
+    "name": "fonttools",
+    "version": "4.62.1"
+  },
+  {
+    "name": "future",
+    "version": "1.0.0"
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0"
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9"
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1"
+  },
+  {
+    "name": "idna",
+    "version": "3.11"
+  },
+  {
+    "name": "ImageIO",
+    "version": "2.37.3"
+  },
+  {
+    "name": "imgaug",
+    "version": "0.4.0"
+  },
+  {
+    "name": "itsdangerous",
+    "version": "2.2.0"
+  },
+  {
+    "name": "Jinja2",
+    "version": "3.1.6"
+  },
+  {
+    "name": "kiwisolver",
+    "version": "1.5.0"
+  },
+  {
+    "name": "lazy-loader",
+    "version": "0.5"
+  },
+  {
+    "name": "lmdb",
+    "version": "2.2.0"
+  },
+  {
+    "name": "lxml",
+    "version": "6.0.3"
+  },
+  {
+    "name": "MarkupSafe",
+    "version": "3.0.3"
+  },
+  {
+    "name": "matplotlib",
+    "version": "3.10.8"
+  },
+  {
+    "name": "more-itertools",
+    "version": "11.0.2"
+  },
+  {
+    "name": "MouseInfo",
+    "version": "0.1.3"
+  },
+  {
+    "name": "mss",
+    "version": "10.1.0"
+  },
+  {
+    "name": "networkx",
+    "version": "3.4.2"
+  },
+  {
+    "name": "numpy",
+    "version": "1.26.4"
+  },
+  {
+    "name": "opencv-contrib-python",
+    "version": "4.6.0.66"
+  },
+  {
+    "name": "opencv-python",
+    "version": "4.6.0.66"
+  },
+  {
+    "name": "opencv-python-headless",
+    "version": "4.11.0.86"
+  },
+  {
+    "name": "openpyxl",
+    "version": "3.1.5"
+  },
+  {
+    "name": "opt-einsum",
+    "version": "3.3.0"
+  },
+  {
+    "name": "packaging",
+    "version": "26.0"
+  },
+  {
+    "name": "paddleocr",
+    "version": "2.7.0.3"
+  },
+  {
+    "name": "paddlepaddle",
+    "version": "2.6.2"
+  },
+  {
+    "name": "pandas",
+    "version": "2.3.3"
+  },
+  {
+    "name": "pdf2docx",
+    "version": "0.5.8"
+  },
+  {
+    "name": "pillow",
+    "version": "12.2.0"
+  },
+  {
+    "name": "pip",
+    "version": "26.0.1"
+  },
+  {
+    "name": "premailer",
+    "version": "3.10.0"
+  },
+  {
+    "name": "protobuf",
+    "version": "3.20.2"
+  },
+  {
+    "name": "psutil",
+    "version": "7.2.2"
+  },
+  {
+    "name": "PyAutoGUI",
+    "version": "0.9.54"
+  },
+  {
+    "name": "pyclipper",
+    "version": "1.4.0"
+  },
+  {
+    "name": "pycryptodome",
+    "version": "3.23.0"
+  },
+  {
+    "name": "PyGetWindow",
+    "version": "0.0.9"
+  },
+  {
+    "name": "PyMsgBox",
+    "version": "2.0.1"
+  },
+  {
+    "name": "PyMuPDF",
+    "version": "1.20.2"
+  },
+  {
+    "name": "pynput",
+    "version": "1.8.1"
+  },
+  {
+    "name": "pyparsing",
+    "version": "3.3.2"
+  },
+  {
+    "name": "pyperclip",
+    "version": "1.11.0"
+  },
+  {
+    "name": "PyRect",
+    "version": "0.2.0"
+  },
+  {
+    "name": "PyScreeze",
+    "version": "1.0.1"
+  },
+  {
+    "name": "python-dateutil",
+    "version": "2.9.0.post0"
+  },
+  {
+    "name": "python-docx",
+    "version": "1.2.0"
+  },
+  {
+    "name": "pytweening",
+    "version": "1.2.0"
+  },
+  {
+    "name": "pytz",
+    "version": "2026.1.post1"
+  },
+  {
+    "name": "PyYAML",
+    "version": "6.0.3"
+  },
+  {
+    "name": "RapidFuzz",
+    "version": "3.14.5"
+  },
+  {
+    "name": "rarfile",
+    "version": "4.2"
+  },
+  {
+    "name": "requests",
+    "version": "2.33.1"
+  },
+  {
+    "name": "scikit-image",
+    "version": "0.25.2"
+  },
+  {
+    "name": "scipy",
+    "version": "1.15.3"
+  },
+  {
+    "name": "setuptools",
+    "version": "82.0.1"
+  },
+  {
+    "name": "shapely",
+    "version": "2.1.2"
+  },
+  {
+    "name": "six",
+    "version": "1.17.0"
+  },
+  {
+    "name": "soupsieve",
+    "version": "2.8.3"
+  },
+  {
+    "name": "termcolor",
+    "version": "3.3.0"
+  },
+  {
+    "name": "tifffile",
+    "version": "2025.5.10"
+  },
+  {
+    "name": "tqdm",
+    "version": "4.67.3"
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.15.0"
+  },
+  {
+    "name": "tzdata",
+    "version": "2026.1"
+  },
+  {
+    "name": "urllib3",
+    "version": "2.6.3"
+  },
+  {
+    "name": "visualdl",
+    "version": "2.5.3"
+  },
+  {
+    "name": "Werkzeug",
+    "version": "3.1.8"
+  },
+  {
+    "name": "wheel",
+    "version": "0.46.3"
+  }
+]

@@ -1,0 +1,9 @@
+runtime/
+models/
+.venv/
+__pycache__/
+*.pyc
+logs/
+debug_img/
+*.zip
+.DS_Store
