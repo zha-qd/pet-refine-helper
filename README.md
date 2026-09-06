@@ -1,4 +1,4 @@
-# 宠物洗练助手 | Pet Refine Helper
+# 无尽冬日 / 寒霜启示录 宠物洗练助手 | Whiteout Survival Pet Refine Helper
 
 Windows 桌面宠物洗练工具，使用屏幕截图、OCR 和鼠标点击完成洗练。支持单洗、双洗、三洗，替换后核对总属性，并在单洗达到上限时自动停止。
 

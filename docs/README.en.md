@@ -1,4 +1,4 @@
-# Pet Refine Helper | 宠物洗练助手
+# Whiteout Survival Pet Refine Helper | 无尽冬日 / 寒霜启示录 宠物洗练助手
 
 A Windows desktop assistant for the calibrated pet refinement screen. It reads values with OCR, clicks the game UI, verifies replacements against the saved stat values, and stops single-stat refinement at the cap. The application interface is in Chinese.
 
